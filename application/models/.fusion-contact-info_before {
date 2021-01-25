@@ -1,0 +1,267 @@
+.fusion-contact-info:before {
+font-family: fontAwesome !important;
+content: "\f095 " !important;
+padding-right: 3px!important;  
+color: #000000 !important;
+}
+
+.fusion-header-v2 .fusion-secondary-header {
+    /* border-top-color: #a0ce4e; */
+    border: none;
+}
+
+#main{ padding: 0px;}
+
+/*.banner-section {
+    height: 605px;
+}*/
+
+li.fusion-custom-menu-item.fusion-main-menu-search.fusion-last-menu-item {
+    display: none;
+}
+.banner-main {
+    padding: 0px !important;
+}
+
+.carousel-slider .owl-nav.disabled, .carousel-slider .owl-dots.disabled {
+    display: block !important;
+}
+
+.fusion-footer-widget-area{
+	border-top: none !important;
+}
+
+
+#id-184 .owl-prev, #id-184 .owl-next, #id-184 .carousel-slider-nav-icon {
+    height: 60px;
+    width: 60px;
+    background: #333333;
+    border-radius: 100%;
+    border: 1px solid #fff;
+   
+}
+
+.fusion-facebook.fusion-icon-facebook {
+    border-radius: 1px;
+    background: #0433B6;
+    border-radius: 100%;
+    padding: 6px;
+	 color: #fff !important;
+}
+
+a.fusion-social-network-icon.fusion-tooltip.fusion-twitter.fusion-icon-twitter {
+    border-radius: 100%;
+    background: #10C6FD;
+    padding: 6px;
+	 color: #fff !important;
+}
+
+a.fusion-social-network-icon.fusion-tooltip.fusion-linkedin.fusion-icon-linkedin {
+    color: #fff !important;
+    background: #097AB2;
+    border-radius: 100%;
+    padding: 6px;
+}
+
+.biography-section ul li {
+    float: left;
+    padding: 10px;
+	width: 30.33%;
+}
+
+.biography-section ul{
+	display: inline;
+	list-style: none;
+	
+}
+
+#text-3 .widget-title {
+    text-align: left;
+}
+
+
+a.btn-biography {
+    background: #0E9A82;
+    color: #fff;
+    padding: 10px;
+    border-radius: 10px 10px 10px 10px;
+    line-height: 10px;
+    float: left;
+}
+
+.fusion-social-links-header .fusion-social-networks a {
+    font-size: 16px;
+    border-radius: 100% !important;
+}
+
+.fusion-alignright .fusion-contact-info {
+    width: 50%;
+    float: left;
+    margin-left: 30%;
+	text-align: right;
+	color: #565353;
+	letter-spacing: 3px;
+	margin-top: 4px;
+}
+
+.fusion-secondary-header .fusion-alignright {
+    float: right;
+    margin-right: 4%;
+    -webkit-flex-grow: 1;
+    -ms-flex-positive: 1;
+    flex-grow: 1;
+}
+
+.biography-section .fusion-text h2 {
+    color: #719dc5;
+    font-size: 32px !important;
+    
+}
+
+.books-sliders .fusion-text h2{
+	  color: #fff;
+    font-size: 32px !important;
+    
+	
+}
+
+.books-sliders a.fusion-button.button-flat.fusion-button-round.button-large.button-custom.button-2 {
+    left: 40%;
+    top: 30px;
+}
+
+.single-post article{
+	width: 100%;
+	
+}
+
+.single-post .fusion-page-title-bar{ display:none;}
+
+.single-navigation{
+	
+	display:none;
+}
+
+.single-post .fusion-flexslider{
+	width:50%;
+	float:left;
+	
+}
+.press .fusion-text h2 {
+    color:#719DC5;
+    font-size: 19px !important;
+    
+	font-family: myriad pro!important;
+	margin-top:20px!important;
+}
+
+.single-post h2.entry-title.fusion-post-title {
+    /* background: #000; */
+    color: #0e9a82!important;
+    font-size: 32px !important;
+    
+    padding: 10px;
+    text-align: center;
+}
+
+.press .fusion-text h3 {
+    color: #0e9a82 !important;
+    font-size:20px !important;
+    font-weight: bold !important;
+}
+
+
+
+.press .fusion-text a:hover {
+    color: #0e9a82;
+	  text-decoration:underline
+    
+}
+
+.press ul{
+	list-style:none;
+}
+
+.press ul li {
+    font-size: 15px;
+    margin-bottom: 13px;
+    text-align: left;
+    color: #333333;
+}
+
+.press .fusion-text p{
+	 font-size: 16px;
+}
+
+.single-post .post-content{
+	width:50%;
+	float:right;
+	padding-left:20px;
+	
+}
+
+.single-post h2.fusion-post-title{
+	font-size: 20px;
+  color: #0E9A82;
+	
+	
+}
+
+.biography-section .fusion-text a {
+    background: #0E9A82;
+    color: #fff;
+    width: 200px;
+    border-radius: 20px;
+} 
+.biography .fusion-text h1 {
+    color: #719DC5!important;
+    font-family: myriad pro!important;
+	margin-bottom:0px;
+	position:relative;
+
+}
+
+
+.biography .fusion-text h1::before{ 
+background: #719dc5;
+    bottom: -6px;
+    content: "";
+    height: 3px;
+    left: 50%;
+    margin-left: -114px;
+    position: absolute;
+    width: 230px;
+    z-index: 1;
+}
+.contact-us .fusion-text h1 {
+    color: #0e9a82;
+    
+}
+
+input.wpcf7-form-control.wpcf7-submit {
+    background: #0e9a82;
+}
+.hundred-percent-height{ height:auto!important;}
+
+a.fusion-social-network-icon.fusion-tooltip.fusion-facebook.fusion-icon-facebook {
+    background: #76d3c4 !important;
+}
+
+a.fusion-social-network-icon.fusion-tooltip.fusion-twitter.fusion-icon-twitter {
+    background: #ed8e9d!important;
+}
+
+a.fusion-social-network-icon.fusion-tooltip.fusion-linkedin.fusion-icon-linkedin {
+    background: #93d6f4 !important;
+}
+
+.books .fusion-text h1 {
+    color: #0e9a82;
+    
+}
+
+.fusion-rollover-categories {
+    display: none;
+}
+
+
